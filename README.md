@@ -1,2 +1,2 @@
 # singular-grid-web
-Singular web app, the main interface for anyone using the SingularGrid.
+Singular web app, is a React SPA that is the main interface for anyone interacting with the SingularGrid.
